@@ -6,7 +6,7 @@
     skillshop.withgoogle.com
 # Simplilearn 
     bit.ly/SlMPLlFREE
-# Sisco 
+# Cisco 
     bit.ly/SlSCOFREE
 # Udemy 
     bit.ly/UDEMYFREE
