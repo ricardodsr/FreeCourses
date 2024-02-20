@@ -5,9 +5,9 @@
 # Google 
     skillshop.withgoogle.com
 # Simplilearn 
-    bit.ly/SlMPLlFREE
+    simplilearn.com/
 # Cisco 
-    bit.ly/SlSCOFREE
+    https://www.netacad.com/
 # Udemy 
     bit.ly/UDEMYFREE
 # IBM 
